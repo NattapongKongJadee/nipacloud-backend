@@ -25,7 +25,7 @@ curl http://localhost:8000/api/tickets?sortBy=latestUpdate
 
 
 //Update ticket
-//curl -X PUT http://localhost:8000/api/tickets/1 \
+curl -X PUT http://localhost:8000/api/tickets/1 \
 -H "Content-Type: application/json" \
 -d '{
 "status": "accepted",
