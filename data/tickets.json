@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  },
+  {
+    "id": "2",
+    "title": "Bug in Production",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+    "contact": "user@example.com",
+    "createdTimestamp": "2024-12-18T04:07:51.199Z",
+    "latestUpdateTimestamp": "2024-12-18T04:07:51.200Z",
+    "status": "pending"
+  },
+  {
+    "id": "3",
+    "title": "Data center Error",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+    "contact": "user@example.com",
+    "createdTimestamp": "2024-12-18T04:07:51.199Z",
+    "latestUpdateTimestamp": "2024-12-18T04:07:51.200Z",
+    "status": "accepted"
+  },
+  {
+    "id": "4",
+    "title": "Mock Data Rejected 2 ",
+    "description": "Lorem ipsum ....",
+    "contact": "e@email.com",
+    "createdTimestamp": "2024-12-20T03:31:33.451Z",
+    "latestUpdateTimestamp": "2024-12-21T00:21:58.277Z",
+    "status": "rejected"
+  },
+  {
+    "id": "5",
+    "title": "Mock Data Resolved",
+    "description": "Lorem ipsum dolor sit amet, conse.......",
+    "contact": "e@email.com",
+    "createdTimestamp": "2024-12-20T03:31:33.451Z",
+    "latestUpdateTimestamp": "2024-12-20T03:31:33.451Z",
+    "status": "resolved"
+  },
+  {
+    "id": "6",
+    "title": "Mock Data Rejected",
+    "description": "Lorem ipsum dolor sit amet, conse.......",
+    "contact": "e@email.com",
+    "createdTimestamp": "2024-12-20T03:31:33.451Z",
+    "latestUpdateTimestamp": "2024-12-20T03:31:33.451Z",
+    "status": "rejected"
+  },
+  {
+    "id": "7",
+    "title": "Email Account Access Issue",
+    "description": "The user cannot access their email account and has already tried resetting the password.",
+    "contact": "example@email.com",
+    "createdTimestamp": "2024-12-20T07:45:56.606Z",
+    "latestUpdateTimestamp": "2024-12-21T01:11:13.282Z",
+    "status": "resolved"
+  },
+  {
+    "id": "8",
+    "title": "Mock Data Accepted",
+    "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
+    "contact": "example@email.com",
+    "createdTimestamp": "2024-12-21T01:06:15.691Z",
+    "latestUpdateTimestamp": "2024-12-21T01:14:01.134Z",
+    "status": "accepted"
+  },
+  {
+    "id": "9",
+    "title": "Software Installation Request",
+    "description": " A request for installing specific software.",
+    "contact": "123@email.com",
+    "createdTimestamp": "2024-12-21T01:13:06.788Z",
+    "latestUpdateTimestamp": "2024-12-21T01:13:14.709Z",
+    "status": "pending"
+  },
+  {
+    "id": "10",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  },
+  {
+    "id": "11",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  },
+  {
+    "id": "12",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  },
+  {
+    "id": "13",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  },
+  {
+    "id": "14",
+    "title": "Printer Not Responding",
+    "description": "A critical issue with the office printer; resolved by IT.",
+    "contact": "contact@example.com",
+    "createdTimestamp": "2024-12-18T10:00:00Z",
+    "latestUpdateTimestamp": "2024-12-21T01:12:10.144Z",
+    "status": "accepted"
+  }
+]
